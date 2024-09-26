@@ -1,4 +1,4 @@
-# Quantum Hamiltonian learning using the quantum Zeno effect
+# CV systems
 
 ## Create env in your local OS
 
